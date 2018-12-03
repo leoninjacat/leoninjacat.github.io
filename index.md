@@ -1,2 +1,3 @@
 Experimentos com AR/VR
-[Rede Manchete VR](https://leoninjacat.github.io/Index.html)
+- [Rede Manchete AR](https://leoninjacat.github.io/Index.html)
+- [Rede Manchete VR](https://redemanchete.glitch.me/)
