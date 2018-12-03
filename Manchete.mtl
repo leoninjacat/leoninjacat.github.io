@@ -1,0 +1,12 @@
+# Blender MTL File: 'Manchete.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 174.509804
+Ka 0.500000 0.314999 0.014885
+Kd 1.000000 0.727738 0.007145
+Ks 0.650000 0.650000 0.650000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
